@@ -1,9 +1,9 @@
 require 'sinatra'
 
 get '/' do
-  "Hello world!"
+  "Hello world!!"
 end
 
 get '/wyncode' do
-  "Hello Wyncode"
+  "Hello Wyncode!!"
 end
